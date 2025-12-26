@@ -1,3 +1,5 @@
 .DS_Store
 .env
 __pycache__
+multi_agent_workflow/*.html
+multi_agent_workflow/lib/*
